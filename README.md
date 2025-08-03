@@ -35,4 +35,4 @@ plt.show()
 ```
 
 <p align="center">
-<img src="images/R.jpg" alt="Plot" width="70%"/>
+<img src="images/Figure_1.png" alt="Plot" width="70%"/>
