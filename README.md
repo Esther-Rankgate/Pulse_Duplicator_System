@@ -1,5 +1,6 @@
-# Pulse_Duplicator_System
-An experiment is conducted using a pulse duplicator system to simulate cardiovascular function. The pressure within the left ventricle and aorta is recorded over time. A Python code is used to visualize the data, apply signal filtering, and perform relevant calculations.
+# Cardiovascular Pressure Analysis Tool
+An experiment is conducted using a pulse duplicator system to simulate cardiovascular function. The pressure within the left ventricle and aorta is recorded over time.  The code aims to provide a user-friendly interface for clinicians to visualise and analyse cardiovascular pressure data, incorporating signal filtering and automated calculations to support efficient interpretation of haemodynamic measurements.
+
 
 <p align="center">
 <img src="images/R.jpg" alt="Plot" width="70%"/>
